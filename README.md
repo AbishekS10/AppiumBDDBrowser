@@ -1,4 +1,4 @@
-# AppiumBDD Mobile Native and  web Apps
+# AppiumBDD Mobile Browser
 
 TechStack used:
  1)Appium
