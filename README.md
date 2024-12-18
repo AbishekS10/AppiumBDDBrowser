@@ -7,9 +7,8 @@ TechStack used:
  4)Allure report
 
  About Framwork:
- 1) Framwork perform Android and mobile Browser Automation with Appium
- 2) Sample App flow with Calculator APk and General Store APK
- 3) Sample web flow with OrangerHRDemo portal
- 4) Mobile and Web elements managed with POM
- 5) Mobile and web DesiredCapabilities are maintained under Config.properties
+ 1) Framwork perform mobile Browser Automation with Appium
+ 2) Sample web flow with OrangerHRDemo portal
+ 3)Web elements managed with POM
+ 4)web DesiredCapabilities are maintained under Config.properties
  6) TestRunner with Tags and Allure report
